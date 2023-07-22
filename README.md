@@ -121,16 +121,16 @@ You can deploy this project using by transfering files in your local repository 
 
 👤 **Author1**
 
-- GitHub: [@Blessman Newton](https://github.com/Blessman-Newton)
-- Twitter: [@Blessman Newton](https://twitter.com/blessman_newton)
-- LinkedIn: [Blessman Newton](https://linkedin.com/in/blessman-newton-a7a80a251)
+- GitHub: [@GitHub](https://github.com/Blessman-Newton)
+- Twitter: [@Twitter](https://twitter.com/blessman_newton)
+- LinkedIn: [@LinkedIn](https://linkedin.com/in/blessman-newton-a7a80a251)
 
 👤 **Author2**
  
 
 - GitHub: [@GitHub](https://github.com/)
-- Twitter:[@GitHub](https://twitter.com/)
-- LinkedIn: [@GitHub](https://www.linkedin.com/in/)
+- Twitter:[@Twitter](https://twitter.com/)
+- LinkedIn: [@LinkedIn](https://www.linkedin.com/in/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
