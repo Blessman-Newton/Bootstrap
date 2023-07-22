@@ -106,13 +106,13 @@ To run tests, run the following command:
 
 You can deploy this project using:
 
-You can deploy this project using by transfering files in your local repository onto your server.
+You can deploy this project using by transferring files in your local repository onto your server.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Authors <a name="authors">Blessman Newton</a>
 
-## 👥 Authors <a name="authors">Emmanuel Ntihinyuka</a>
+## 👥 Authors <a name="authors">Burhan Uddin</a>
 
 👤 **Blessman Newton**
 
