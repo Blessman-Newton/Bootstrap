@@ -130,7 +130,7 @@ You can deploy this project using by transfering files in your local repository 
 
 - GitHub: [@GitHub](https://github.com/bhobserver)
 - Twitter:[@Twitter](https://www.linkedin.com/in/bhobserver/)
-- LinkedIn: [@LinkedIn](https://www.linkedin.com/in/)
+- LinkedIn: [@LinkedIn](https://www.linkedin.com/in/bhobserver/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
