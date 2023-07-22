@@ -119,17 +119,17 @@ You can deploy this project using by transfering files in your local repository 
 
 ## 👥 Authors <a name="authors">Emmanuel Ntihinyuka</a>
 
-👤 **Author1**
+👤 **Blessman Newton**
 
 - GitHub: [@GitHub](https://github.com/Blessman-Newton)
 - Twitter: [@Twitter](https://twitter.com/blessman_newton)
 - LinkedIn: [@LinkedIn](https://linkedin.com/in/blessman-newton-a7a80a251)
 
-👤 **Author2**
+👤 **Burhan Uddin**
  
 
-- GitHub: [@GitHub](https://github.com/)
-- Twitter:[@Twitter](https://twitter.com/)
+- GitHub: [@GitHub](https://github.com/bhobserver)
+- Twitter:[@Twitter](https://www.linkedin.com/in/bhobserver/)
 - LinkedIn: [@LinkedIn](https://www.linkedin.com/in/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
